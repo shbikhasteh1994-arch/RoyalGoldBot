@@ -9,7 +9,7 @@ from image_generator import create_image
 
 async def send_post():
 
-    bot = Bot(token=BOT_TOKEN)
+    bot = AAGCMoiX55zn6RCUKCfXl3ZCHSYJp6IPzdE
 
     prices = get_prices()
 

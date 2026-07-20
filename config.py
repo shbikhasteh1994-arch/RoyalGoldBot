@@ -1,4 +1,4 @@
 import os
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHANNEL_ID = os.getenv("CHANNEL_ID")
+CHANNEL_ID = os.getenv("RoyalGold_Shop")
